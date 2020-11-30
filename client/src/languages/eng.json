@@ -1,0 +1,75 @@
+{
+  "navbar": {
+    "main": "Main",
+    "trainings": "Trainings",
+    "about": "About us"
+  },
+  "mainPage": {
+    "welcome": "Welcome to our training center",
+    "subWelcome": {
+      "first": "There is no reason for you not to come to us.",
+      "second": "We will prove you, that there are many things you still have to learn"
+    }
+  },
+  "requestForm": {
+    "title": "Request Form",
+    "name": {
+      "label": "Your name",
+      "error": "Name field must not be empty",
+      "placeholder": "Input your name here"
+    },
+    "surname": {
+      "label": "Your surname",
+      "error": "Surname field must not be empty",
+      "placeholder": "Input your surname here"
+    },
+    "email": {
+      "label": "Your email",
+      "error": "Email is not valid",
+      "placeholder": "Input your email here"
+    },
+    "phoneNumber": {
+      "label": "Your phone number",
+      "error": "Phone Number is not valid",
+      "placeholder": "Input your phone number here"
+    },
+    "text": {
+      "label": "Request text",
+      "error": "Text field must not be empty",
+      "placeholder": "Input your request text here"
+    },
+    "button": "Send Request"
+  },
+  "about": {
+    "heading": {
+      "first": "Most of our visitors do not need trainings, because they are unteachable.",
+      "second": "But still they can pay money and that is the point of our trainings."
+    },
+    "subHeading": {
+      "first": "Our center is among the best in the world ! ",
+      "second": "We will persuade you that there are still many things you didn't know"
+    }
+  },
+  "training": {
+    "hide": "Hide",
+    "show": "Show Details"
+  },
+  "requestsTable": {
+    "tableTitle": "Requests List",
+    "name": "Name",
+    "surname": "Surname",
+    "email": "Email",
+    "phoneNumber": "Phone Number",
+    "text": "Text",
+    "confirmed": "Confirmed"
+  },
+  "trainingsTable": {
+    "tableTitle": "Trainings List",
+    "title": "Title",
+    "shortDescription": "Short Description",
+    "detailedDescription": "Detailed Description"
+  },
+  "admin": {
+    "switch": "Switch the requirement of email confirmation"
+  }
+}
