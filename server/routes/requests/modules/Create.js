@@ -41,7 +41,7 @@ app.post('/', [], async (req, res) => {
 `
     }
 
-    if(confirmed)
+    if(!confirmed)
         transporter.sendMail(mailOptions, err => console.log(err));
 
     res.send({
